@@ -1,0 +1,15 @@
+{
+    "version": "1.20.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zoharbabin/web-researcher-mcp/releases/download/v1.20.0/web-researcher-mcp_1.20.0_windows_amd64.zip",
+            "bin": [
+                "web-researcher-mcp.exe"
+            ],
+            "hash": "7d709172ba9c6c31b53d3b8f28b4242307ee0f51aa7e9e34fed8e80e64bee9bc"
+        }
+    },
+    "homepage": "https://github.com/zoharbabin/web-researcher-mcp",
+    "license": "MIT",
+    "description": "Your AI research assistant that cites real sources and stays honest"
+}
