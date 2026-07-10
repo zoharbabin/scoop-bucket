@@ -1,12 +1,12 @@
 {
-    "version": "1.38.0",
+    "version": "1.39.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zoharbabin/web-researcher-mcp/releases/download/v1.38.0/web-researcher-mcp_1.38.0_windows_amd64.zip",
+            "url": "https://github.com/zoharbabin/web-researcher-mcp/releases/download/v1.39.0/web-researcher-mcp_1.39.0_windows_amd64.zip",
             "bin": [
                 "web-researcher-mcp.exe"
             ],
-            "hash": "2bbe89563b8617b559b10201ba5427e5289cf7cfcb75dd0397e11740b2882a4a"
+            "hash": "ed62cc3487b4a515dacb2af1c7b8a473747ff1c750d57574fcf1bffee6017b67"
         }
     },
     "homepage": "https://github.com/zoharbabin/web-researcher-mcp",
